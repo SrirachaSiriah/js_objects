@@ -1,0 +1,18 @@
+//Colours
+$blue : #DC143C; //Primary colour is now Crimson
+$gray-600 : #F08080; // Secondary colour is now Light Coral
+$green: #FFA07A; //Success colour is now Light Salmon
+$gray-100: #FFF8DC;
+
+//Fonts
+$headings-font-family: 'Arvo', serif;
+$display4-size: 2rem;
+
+
+@import '../bootstrap-4.5.3/scss/bootstrap.scss';
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
